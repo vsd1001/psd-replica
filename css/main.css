@@ -1,20 +1,26 @@
-
-header nav ul li{
+ nav ul li{
      list-style: none;
      display: inline;
      padding: 60px;
  } 
+
+ nav{
+   background-color: white;
+   height: 75px;
+   border: 1px solid black;
+}
+
  header{
  	background-color: white;
  	height:35px;
 
  } 
  #logo{
- 	font-size: 25px;
+ 	font-size: 35px;
  	font-family: cursive;
  	color: #00B0EB;
- 	
- }
+ 	}
+  
 
  nav a{
  	color: gray;
